@@ -92,5 +92,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Acknowledgments
 
-- **Firebase & Supabase** for excellent backend services
 - **React & Vite** communities for outstanding developer tools
